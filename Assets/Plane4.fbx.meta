@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: c7c80533f023cec4dae714e3853aa9a6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Back_Wheels
+    100002: Banner
+    100004: Banner_Connection
+    100006: Banner_Connection_1
+    100008: Camera_2
+    100010: Front_Wheel
+    100012: Front_Wheel_Hub
+    100014: Left_Flap
+    100016: Left_Front_Flap
+    100018: //RootNode
+    100020: Plane4
+    100022: Plane_Body
+    100024: Plane_Body_MeshPart0
+    100026: Plane_Body_MeshPart1
+    100028: Propeller
+    100030: Right_Flap
+    100032: Right_Flap_2
+    400000: Back_Wheels
+    400002: Banner
+    400004: Banner_Connection
+    400006: Banner_Connection_1
+    400008: Camera_2
+    400010: Front_Wheel
+    400012: Front_Wheel_Hub
+    400014: Left_Flap
+    400016: Left_Front_Flap
+    400018: //RootNode
+    400020: Plane4
+    400022: Plane_Body
+    400024: Plane_Body_MeshPart0
+    400026: Plane_Body_MeshPart1
+    400028: Propeller
+    400030: Right_Flap
+    400032: Right_Flap_2
+    2300000: Back_Wheels
+    2300002: Banner
+    2300004: Banner_Connection
+    2300006: Banner_Connection_1
+    2300008: Front_Wheel
+    2300010: Front_Wheel_Hub
+    2300012: Left_Flap
+    2300014: Left_Front_Flap
+    2300016: Plane_Body_MeshPart0
+    2300018: Plane_Body_MeshPart1
+    2300020: Propeller
+    2300022: Right_Flap
+    2300024: Right_Flap_2
+    3300000: Back_Wheels
+    3300002: Banner
+    3300004: Banner_Connection
+    3300006: Banner_Connection_1
+    3300008: Front_Wheel
+    3300010: Front_Wheel_Hub
+    3300012: Left_Flap
+    3300014: Left_Front_Flap
+    3300016: Plane_Body_MeshPart0
+    3300018: Plane_Body_MeshPart1
+    3300020: Propeller
+    3300022: Right_Flap
+    3300024: Right_Flap_2
+    4300000: Propeller
+    4300002: Left_Front_Flap
+    4300004: Right_Flap
+    4300006: Back_Wheels
+    4300008: Plane_Body_MeshPart0
+    4300010: Plane_Body_MeshPart1
+    4300012: Banner
+    4300014: Banner_Connection_1
+    4300016: Banner_Connection
+    4300018: Front_Wheel_Hub
+    4300020: Front_Wheel
+    4300022: Right_Flap_2
+    4300024: Left_Flap
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Back Wheels
+    second: {fileID: 2100000, guid: a613ddfa5d6666a40af59844cd980ef2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Banner
+    second: {fileID: 2100000, guid: 25ec5764e598d5847a6e8e79a626ed2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Banner Connection
+    second: {fileID: 2100000, guid: 798e21281d9c99243b188a27e7c6c03d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Banner Connection.1
+    second: {fileID: 2100000, guid: 466d5bda04d8fe043af815190814b7ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Front Wheel
+    second: {fileID: 2100000, guid: ab378bd681ade1844841bff5c8262d58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Front Wheel Hub
+    second: {fileID: 2100000, guid: 5752224355b24ab48bc1db71c54c16df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Left Flap
+    second: {fileID: 2100000, guid: e7f7e274219e46443ae7af9c2361a901, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Left Front Flap
+    second: {fileID: 2100000, guid: d0ab7d7cef974c64dba192c6a48b05a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane Body
+    second: {fileID: 2100000, guid: b3d1ee6a9a2666b4797c71b4292a7a86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Propeller
+    second: {fileID: 2100000, guid: d4d7bbcbf2c98e94294f8405f674d6ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Right Flap
+    second: {fileID: 2100000, guid: 80156d264f350b04b8d83a2cc9628788, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Right Flap.1
+    second: {fileID: 2100000, guid: 928aab348c198324da0b4880e8c3b638, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
