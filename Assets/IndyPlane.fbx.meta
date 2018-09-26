@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: fdcf8fd40ccaddf4d80bb70a4b29cfa3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Back_Wheels
+    100002: Banner
+    100004: Banner_2
+    100006: Banner_Connection
+    100008: Banner_Connection_1
+    100010: Camera_2
+    100012: Cap_1
+    100014: Cap_2
+    100016: CINEMA_4D_Editor
+    100018: Extrude
+    100020: Floor
+    100022: Front_Wheel
+    100024: Front_Wheel_Hub
+    100026: //RootNode
+    100028: Landscape
+    100030: Left_Flap
+    100032: Left_Front_Flap
+    100034: Lensflare_Source
+    100036: Light
+    100038: Light_1
+    100040: Light_2
+    100042: LIghts
+    100044: Moon
+    100046: Moon_Light
+    100048: Physical_Sky
+    100050: Plane_Body
+    100052: Plane_Shell_1
+    100054: Propeller
+    100056: Propeller_2
+    100058: Right_Flap
+    100060: Right_Flap_2
+    100062: Shadow_Plane
+    100064: Sky_Dome
+    100066: Sky_Null
+    100068: Sphere
+    100070: Sphere_1
+    100072: Sphere_2
+    100074: Sun
+    100076: Sun_light
+    400000: Back_Wheels
+    400002: Banner
+    400004: Banner_2
+    400006: Banner_Connection
+    400008: Banner_Connection_1
+    400010: Camera_2
+    400012: Cap_1
+    400014: Cap_2
+    400016: CINEMA_4D_Editor
+    400018: Extrude
+    400020: Floor
+    400022: Front_Wheel
+    400024: Front_Wheel_Hub
+    400026: //RootNode
+    400028: Landscape
+    400030: Left_Flap
+    400032: Left_Front_Flap
+    400034: Lensflare_Source
+    400036: Light
+    400038: Light_1
+    400040: Light_2
+    400042: LIghts
+    400044: Moon
+    400046: Moon_Light
+    400048: Physical_Sky
+    400050: Plane_Body
+    400052: Plane_Shell_1
+    400054: Propeller
+    400056: Propeller_2
+    400058: Right_Flap
+    400060: Right_Flap_2
+    400062: Shadow_Plane
+    400064: Sky_Dome
+    400066: Sky_Null
+    400068: Sphere
+    400070: Sphere_1
+    400072: Sphere_2
+    400074: Sun
+    400076: Sun_light
+    2000000: Camera_2
+    2000002: CINEMA_4D_Editor
+    2100000: Mat.5
+    2100002: Left Flap
+    2100004: Sand 02 - Procedural
+    2300000: Back_Wheels
+    2300002: Banner_2
+    2300004: Banner_Connection
+    2300006: Banner_Connection_1
+    2300008: Cap_1
+    2300010: Cap_2
+    2300012: Extrude
+    2300014: Front_Wheel
+    2300016: Front_Wheel_Hub
+    2300018: Landscape
+    2300020: Left_Flap
+    2300022: Left_Front_Flap
+    2300024: Plane_Body
+    2300026: Propeller_2
+    2300028: Right_Flap
+    2300030: Right_Flap_2
+    2300032: Sphere
+    2300034: Sphere_1
+    2300036: Sphere_2
+    3300000: Back_Wheels
+    3300002: Banner_2
+    3300004: Banner_Connection
+    3300006: Banner_Connection_1
+    3300008: Cap_1
+    3300010: Cap_2
+    3300012: Extrude
+    3300014: Front_Wheel
+    3300016: Front_Wheel_Hub
+    3300018: Landscape
+    3300020: Left_Flap
+    3300022: Left_Front_Flap
+    3300024: Plane_Body
+    3300026: Propeller_2
+    3300028: Right_Flap
+    3300030: Right_Flap_2
+    3300032: Sphere
+    3300034: Sphere_1
+    3300036: Sphere_2
+    4300000: Sphere_2
+    4300002: Sphere_1
+    4300004: Sphere
+    4300006: Propeller_2
+    4300008: Extrude
+    4300010: Cap_1
+    4300012: Cap_2
+    4300014: Left_Front_Flap
+    4300016: Right_Flap
+    4300018: Back_Wheels
+    4300020: Plane_Body
+    4300022: Banner_2
+    4300024: Banner_Connection_1
+    4300026: Banner_Connection
+    4300028: Front_Wheel_Hub
+    4300030: Front_Wheel
+    4300032: Right_Flap_2
+    4300034: Left_Flap
+    4300036: Landscape
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+    10800000: Lensflare_Source
+    10800002: Light
+    10800004: Light_1
+    10800006: Light_2
+    10800008: Moon_Light
+    10800010: Sky_Dome
+    10800012: Sun_light
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CINEMA_4D_Main
+      takeName: CINEMA_4D_Main
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
